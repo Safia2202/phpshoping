@@ -1,1 +1,1 @@
-# phpshoping project (apart)
+# phpshoping project (a part)
